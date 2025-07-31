@@ -22,6 +22,9 @@ nav a {
   text-decoration: none;
   color: #007acc;
 }
+nav a:hover{
+  background-color: #B8F2FF
+}    
 
 .hero, .projects, .contact-form {
   padding: 2rem;
